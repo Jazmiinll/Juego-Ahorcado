@@ -1,0 +1,3 @@
+﻿  Juego Ahorcado.cpp
+C:\Users\Usuario\OneDrive\Escritorio\UCENM\IV SEMESTRE\PROGRAMACION II\PROYECTOS C++\Juego Ahorcado\Juego Ahorcado.cpp(130,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Juego Ahorcado.vcxproj -> C:\Users\Usuario\OneDrive\Escritorio\UCENM\IV SEMESTRE\PROGRAMACION II\PROYECTOS C++\Juego Ahorcado\x64\Debug\Juego Ahorcado.exe
